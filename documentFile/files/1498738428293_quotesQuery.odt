@@ -1,0 +1,97 @@
+﻿1) Client suggestion
+ 
+These should already exist on either the vehicle or driver objects:
+
+3) Gender
+14) Model year
+
+
+Our view
+Yes we are getting above mentioned params value.
+
+2) Client suggestion
+
+These should probably have been included on the objects, but appear to not to. For now hard code them to the value that returns the lowest price and I'll get back to you on how to correct:
+
+2) Year licensed
+15) Iso Symbol
+16) Vehicle MSRP
+19) Anti Theft Device
+
+ Our view
+ We can use  fixed value (as per quote calculation document) to pass the  above required parameter for quotes calculation but result will also be fixed until we  do not change other required parameters except mentioned fixed parameters.
+
+3) Client suggestion
+
+These should be included in the quote request already:
+
+1) zipcode
+9) DriverNo
+20) Start Date
+21) End Date
+
+ Our view
+ yes we are getting above mentioned parameter value except driver number. driver number is an important factor upon which we are doing calculation
+ some rate so we need it otherwise we should change the logic and that will not be according to document provided to us.
+
+
+4) client suggestion
+
+These will be hardcoded for now but I don't know to what. I'll get back to you. For now use any value but make it easy to change:
+
+10) Bodily Injury Increased Limits (BI Limits)
+11) Property Dameged Increased Limits (PD Limits)
+12) Medical Payment Increased Limits ( Med Limits)
+13) Uninsured Motorist Increaded Limits (UM Limits)
+17) Collision deductible
+18) Comprehensive Deductible
+
+
+ Our view
+ We can use  fixed value (as per quote calculation document) to pass the  above required parameter for quotes calculation but result will also be fixed until we  do not change other required parameters except mentioned fixed parameters.
+
+5) Client suggestion
+
+I would prefer that we completely remove these from the calculation for now. (If that's not possible let's use a default value that has the most neutral impact):
+
+4) Maritial status
+5) Violation No
+6) Fault accident
+7) Most Recent Accident Month
+8) Second Most Recent Accident Month
+22) Day (i.e, Weekday, Weekend ,Holiday)
+23) Date (To get time of day)
+
+
+Our view
+No  we can't completely remove above mentioned parameters because those mentioned parameter are an important factor to calculate based upon 
+ 
+which we are calculation "total hourly rate" for qoute. Consider following example for understanding technical issue.
+
+Screenshot 1 is the calculation table for Total hourly rate
+
+	
+1) As you can see we need to get “average driver factor” following the second 
+screenshot table and if we are not getting “Fault accident”, ”Maritial status” then how can we calculate average driver factor if we do so then second screenshot table calculation become useless.
+
+
+2) Now if we are not getting  “Date (To get time of day)” for calculation hourly rate  then as you can see to calculate time on day rented using table (screenshot 3) is not possible.
+
+                            1 Screenshot
+Rate calculation step
+
+                        2 Screenshot
+
+
+
+                     
+                            
+
+
+
+                             3 Screenshot
+
+
+
+
+  

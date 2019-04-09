@@ -1,0 +1,54 @@
+"Mfg","Model No","Part No","Desc","Qty","Taxable","Our Cost","Our Cost Ext","Markup","Cost","Extended","Tax","Tax Extended","Type","Hrs","Hrs Ext","Rate","Extended","Row Total"
+"Chief","RSMD232","841872140001","MINI RPA ELITE KEY D INCL SSM232 BLK",2,false,1000,2000,30,1300,2600,0,2600,"TB037 Tech",5,10,95,950,3550
+"Chief","JHS210B","841872100548","J SERIES CEILING MOUNT",1,true,184,184,35,248.39999999999998,248.39999999999998,22.355999999999998,270.756,"General Senior Programmer",5,5,135,675,945.756
+,,,,,,,,,,,,,,,,,,
+"Chief","JHS210S","841872100555","J SERIES CEILING MOUNT",3,true,174,522,30,226.2,678.5999999999999,61.07399999999999,739.6739999999999,"General Senior Programmer",5,15,135,2025,2764.674
+"Chief","K1C120SXF1","841872160047","K1C120S WITH FRAMEONE INTERFACE",1,true,528,528,30,686.4,686.4,61.775999999999996,748.1759999999999,"PROGRAMMER",5,5,123,615,1363.176
+"Chief","K1C210SXF1","841872160078","K1C210S WITH FRAMEONE INTERFACE",1,true,792,792,30,1029.6,1029.6,92.66399999999999,1122.264,"General Senior Programmer",5,5,135,675,1797.264
+"Chief","K1C220SXF1","841872160108","K1C220S WITH FRAMEONE INTERFACE",1,true,894,894,30,1162.2,1162.2,104.598,1266.798,"General Senior Programmer",5,5,135,675,1941.798
+"Chief","K1C22HSXF1","841872160139","K1C22HS WITH FRAMEONE INTERFACE",1,true,772,772,30,1003.6,1003.6,90.324,1093.924,"General Senior Programmer",5,5,135,675,1768.924
+"Chief","K2C120SXF1","841872160511","K2C120S WITH FRAMEONE INTERFACE",1,true,384,384,30,499.2,499.2,44.928,544.1279999999999,"General Senior Programmer",5,5,135,675,1219.128
+"Chief","K2C220SXF1","841872160542","K2C220S WITH FRAMEONE INTERFACE",1,true,608,608,30,790.4,790.4,71.136,861.536,"General Senior Programmer",5,5,135,675,1536.536
+"Chief","K2C22HSXF1","841872160573","K2C22HS WITH FRAMEONE INTERFACE",1,true,528,528,30,686.4,686.4,61.775999999999996,748.1759999999999,"General Senior Programmer",5,5,135,675,1423.176
+"Chief","MF16000B","841872105833","4' - 7' MFP FLOOR STAND",1,true,824,824,30,1071.2,1071.2,96.408,1167.608,"General Senior Programmer",5,5,135,675,1842.608
+"Chief","LFAUS","841872156323","LARGE FUSION STAND MAN ADJ SLV",1,true,1374,1374,30,1786.2,1786.2,160.758,1946.958,"General Senior Programmer",5,5,135,675,2621.958
+"","","","Charges",1,false,0,0,0,0,0,0,0,"General Tech",6,6,95,570,0
+"Crestron","CRESCAT-NP-SP500","6500605","Crestron Homeﾮ CAT5 AV Cable, Single CAT5e & Cresnet, non-plenum, 500 ft spool",1,true,225,225,30,292.5,292.5,26.325,318.825,"General Senior Programmer",5,5,135,675,993.825
+"Crestron","CRESFIBER-CONN-SC50UM-12","6503955","Connectors for CresFiberﾮ 8G Multimode Fiber Optic Cable, SC 50ﾵm, 12-Pack",1,true,285,285,30,370.5,370.5,33.345,403.845,"General Senior Programmer",5,5,135,675,1078.845
+"Crestron","CRESFIBER-SINGLE-SC-P-12","6503542","CresFiberﾮ Simplex Fiber Optic Cable Assembly, 50/125, SC, Plenum, 12 ft",1,true,15,15,30,19.5,19.5,1.755,21.255,"General Senior Programmer",5,5,135,675,696.255
+"Crestron","CRESFIBER-SINGLE-SC-P-6","6503541","CresFiberﾮ Simplex Fiber Optic Cable Assembly, 50/125, SC, Plenum, 6 ft",1,true,13,13,30,16.9,16.9,1.521,18.421,"General Senior Programmer",5,5,135,675,693.421
+"Crestron","CRESFIBER8G-P-SP500","6505318","CresFiberﾮ 8G Multimode Fiber Optic Cable, 50/125 x4 breakout, plenum, 500 ft spool",1,true,700,700,30,910,910,81.89999999999999,991.9,"General Senior Programmer",5,5,135,675,1666.9
+"Crestron","CRESFIBER8G-SM-CONN-LC-12","6505668","Connectors for CresFiberﾮ 8G Single-Mode Fiber Optic Cable, LC, 12-Pack",1,true,240,240,30,312,312,28.08,340.08,"General Senior Programmer",5,5,135,675,1015.0799999999999
+"Crestron","CRESFIBER8G-SM-P-SP2KM","6505670","CresFiberﾮ 8G Single-Mode Fiber Optic Cable, plenum, 2 km spool",1,true,1400,1400,30,1820,1820,163.79999999999998,1983.8,"General Senior Programmer",5,5,135,675,2658.8
+"Crestron","CRESNET-DM-NP-SP500","6500965","Cresnetﾮ Control Cable, Data Only, Non-Plenum, 500 ft (152 m) spool",1,true,95,95,30,123.5,123.5,11.115,134.615,"General Senior Programmer",5,5,135,675,809.615
+"Crestron","CRESNET-HP-NP-TL-SP1000","6500492","Cresnetﾮ ﾓHigh-Power"""" Control Cable, Non-Plenum, Teal, 1000 ft (304 m) spool",1,true,900,900,30,1170,1170,105.3,1275.3,"General Senior Programmer",5,5,135,675,1950.3
+"Crestron","CRESNET-HP-NP-TL-SP500","6500489","Cresnetﾮ ﾓHigh-Power"""" Control Cable, Non-Plenum, Teal, 500 ft (152 m) spool",1,true,425,425,30,552.5,552.5,49.725,602.225,"General Senior Programmer",5,5,135,675,1277.225
+"Crestron","CRESNET-NP-BK-B500","6500494","Cresnetﾮ Control Cable, Non-Plenum, Black, 500 ft (152 m) box",1,true,125,125,30,162.5,162.5,14.625,177.125,"General Senior Programmer",5,5,135,675,852.125
+"Crestron","CRESNET-NP-OR-B500","6500495","Cresnetﾮ Control Cable, Non-Plenum, Orange, 500 ft (152 m) box",1,true,125,125,30,162.5,162.5,14.625,177.125,"General Senior Programmer",5,5,135,675,852.125
+"Crestron","CRESNET-NP-TL-B250","6500410","Cresnetﾮ Control Cable, Non-Plenum, Teal, 250 ft (76 m) box",1,true,65,65,30,84.5,84.5,7.6049999999999995,92.105,"General Senior Programmer",5,5,135,675,767.105
+"Crestron","CRESNET-NP-TL-B500","6500719","Cresnetﾮ Control Cable, Non-Plenum, Teal, 500 ft (152 m) box",1,true,125,125,30,162.5,162.5,14.625,177.125,"General Senior Programmer",5,5,135,675,852.125
+"Crestron","CRESNET-NP-TL-SP1000","6500794","Cresnetﾮ Control Cable, Non-Plenum, Teal, 1000 ft (304 m) spool",1,true,250,250,30,325,325,29.25,354.25,"General Senior Programmer",5,5,135,675,1029.25
+"Crestron","CRESNET-NP-TL-SP500","6500183","Cresnetﾮ Control Cable, Non-Plenum, Teal, 500 ft (152 m) spool",1,true,125,125,30,162.5,162.5,14.625,177.125,"General Senior Programmer",5,5,135,675,852.125
+"Crestron","CRESNET-NP-WH-SP500","6508327","Cresnetﾮ Control Cable, Non-Plenum, White, 500 ft (152 m) spool",1,true,125,125,30,162.5,162.5,14.625,177.125,"General Senior Programmer",5,5,135,675,852.125
+"Crestron","CRESNET-P-BK-SP500","6500184","Cresnetﾮ Control Cable, Plenum-Rated, Black, 500 ft (152 m) spool",1,true,225,225,30,292.5,292.5,26.325,318.825,"General Senior Programmer",8,8,135,1080,1398.825
+"Crestron","CRESNET-P-OR-SP500","6500185","Cresnetﾮ Control Cable, Plenum-Rated, Orange, 500 ft (152 m) spool",1,true,225,225,30,292.5,292.5,26.325,318.825,"General Senior Programmer",8,8,135,1080,1398.825
+"Crestron","CRESNET-P-TL-SP1000","6500941","Cresnetﾮ Control Cable, Plenum-Rated, Teal, 1000 ft (304 m) spool",1,true,550,550,30,715,715,64.35,779.35,"General Senior Programmer",8,8,135,1080,1859.35
+"Crestron","CRESNET-P-TL-SP500","6500098","Cresnetﾮ Control Cable, Plenum-Rated, Teal, 500 ft (152 m) spool",1,true,225,225,30,292.5,292.5,26.325,318.825,"General Senior Programmer",8,8,135,1080,1398.825
+"Crestron","B-G1-FP-BLK/CHRM","6500836","1-Gang Metallic Faceplate Cover for CNX-B Designer Keypads, Black Chrome",1,true,25,25,30,32.5,32.5,2.925,35.425,"General Senior Programmer",8,8,135,1080,1115.425
+"Crestron","B-G2-FP-BLK/CHRM","6500840","2-Gang Metallic Faceplate Cover for B-G2-FP Faceplates, Black Chrome",1,true,35,35,30,45.5,45.5,4.095,49.595,"General Senior Programmer",8,8,135,1080,1129.595
+"Crestron","B-G3-FP-BLK/CHRM","6500708","3-Gang Metallic Faceplate Cover for B-G3-FP Faceplates, Black Chrome",1,true,50,50,30,65,65,5.85,70.85,"General Senior Programmer",8,8,135,1080,1150.85
+"Crestron","CLK-BD-85386-260-ACLHRH","6507442","Baldwinﾮ Soho Sectional Entry Handleset Kit, Polished Chrome. Please allow 2-3 weeks for delivery. Available in US and Canada only.",1,true,241,241,30,313.3,313.3,28.197,341.497,"General Senior Programmer",8,8,135,1080,1421.497
+"Crestron","CLK-BD-85386-264-ACLHRH","6507443","Baldwinﾮ Soho Sectional Entry Handleset Kit, Satin Chrome. Please allow 2-3 weeks for delivery. Available in US and Canada only.",1,true,241,241,30,313.3,313.3,28.197,341.497,"General Senior Programmer",8,8,135,1080,1421.497
+"Crestron","CLK-BD-85387-260-ACLHRH","6507445","Baldwinﾮ Soho 3/4 Escutcheon Entry Handleset Kit, Polished Chrome. Please allow 2-3 weeks for delivery. Available in US and Canada only.",1,true,345,345,30,448.5,448.5,40.365,488.865,"General Senior Programmer",8,8,135,1080,1568.865
+"Crestron","CLK-BD-85387-264-ACLHRH","6507446","Baldwinﾮ Soho 3/4 Escutcheon Entry Handleset Kit, Satin Chrome. Please allow 2-3 weeks for delivery. Available in US and Canada only.",1,true,345,345,30,448.5,448.5,40.365,488.865,"General Senior Programmer",8,8,135,1080,1568.865
+"Crestron","HR-BTN-B_BLANK","6507401","Single Backlit Engravable Button Cap for HR-100 & HR-150, Black, Engraving Not Included",1,true,5,5,30,6.5,6.5,0.585,7.085,"General Senior Programmer",8,8,135,1080,1087.085
+"Crestron","HR-BTN-B_ENGRAVED","6507402","Single Backlit Engravable Button Cap for HR-100 & HR-150, Black, Includes Custom Engraving",1,true,5,5,30,6.5,6.5,0.585,7.085,"General Senior Programmer",8,8,135,1080,1087.085
+"PANDUIT SALES CORP","UTPCH10BUY","UTPCH10BUY","PAN PATCH CORD CAT5E 10FT BLU",1,true,4.85,4.85,30,6.305,6.305,0.5674499999999999,6.87245,"General Senior Programmer",8,8,135,1080,1086.87245
+"PANDUIT SALES CORP","UTPCH3BUY","UTPCH3BUY","PAN PATCH CORD CAT5E 3FT BLU",1,true,2.8,2.8,30,3.6399999999999997,3.6399999999999997,0.32759999999999995,3.9675999999999996,"General Senior Programmer",8,8,135,1080,1083.9676
+"PANDUIT SALES CORP","UTPCH5BUY","UTPCH5BUY","PAN PATCH CORD CAT5E 5FT BLU",1,true,3,3,30,3.9,3.9,0.351,4.2509999999999994,"General Senior Programmer",8,8,135,1080,1084.251
+"PANDUIT SALES CORP","UTPCH5BUY","UTPCH5BUY","PAN PATCH CORD CAT5E 5FT BLU",1,true,3,3,30,3.9,3.9,0.351,4.2509999999999994,"General Senior Programmer",8,8,135,1080,1084.251
+"PANDUIT SALES CORP","UTPCH7BUY","UTPCH7BUY","PAN PATCH CORD CAT5E 7FT BLU",1,true,3.25,3.25,30,4.225,4.225,0.38025,4.60525,"General Senior Programmer",8,8,135,1080,1084.60525
+"Crestron","B-G1-FP-BLK/CHRM","6500836","1-Gang Metallic Faceplate Cover for CNX-B Designer Keypads, Black Chrome",1,true,25,25,30,32.5,32.5,2.925,35.425,"General Senior Programmer",8,8,135,1080,1115.425
+"Crestron","B-G2-FP-BLK/CHRM","6500840","2-Gang Metallic Faceplate Cover for B-G2-FP Faceplates, Black Chrome",1,true,35,35,30,45.5,45.5,4.095,49.595,"General Senior Programmer",8,8,135,1080,1129.595
+"Crestron","B-G3-FP-BLK/CHRM","6500708","3-Gang Metallic Faceplate Cover for B-G3-FP Faceplates, Black Chrome",1,true,50,50,30,65,65,5.85,70.85,"General Senior Programmer",8,8,135,1080,1150.85
+,,,"njkjilij,u",,,,,,,,,,,,,,,809
